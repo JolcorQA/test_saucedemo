@@ -1,0 +1,12 @@
+{
+    "inforUsuarioValido": {
+        "firstName": "Jorge Luis",
+        "lastName": "Corrales Relaes",
+        "codePostal": "050023"
+    },
+    "inforUsuarioInvalido": {
+        "firstNAme": 0,
+        "lastName": 0,
+        "codePostal": 0
+    }
+}
